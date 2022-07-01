@@ -24,7 +24,7 @@ Außerdem gibt es 2 Ordner:
  - Images
  	=> 2 Weitere Ordner und 2 Bilder für Hauptmenü-Hintergrund und icon
  		- Default: Standart Uno-Kartendeck
- 		- minimalista: Spezielles Uno-Kartendeck (nach https://buyminimalisticcards.com/de)
+ 		- minimalista: Spezielles Uno-Kartendeck (nach https://shop.mattel.com/products/uno-minimalista-gyh69)
  		! Alle Kartendecks wurden selbst (von mir) erstellt (Gimp-Vorlagen in den Ordnern)
 
  - Sounds
